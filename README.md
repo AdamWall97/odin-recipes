@@ -1,0 +1,1 @@
+This is the first Recipe project for The Odin Project in learning web development. This is my first try so be gently.
